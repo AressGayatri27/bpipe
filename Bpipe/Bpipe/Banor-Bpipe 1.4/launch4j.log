@@ -1,0 +1,20 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\gaytri.sonar\Documents\Bpipe\Banor-Bpipe 1.4\Banor.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gaytri.sonar\Documents\Bpipe\Banor-Bpipe 1.4\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\java\jdk-17
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Windows\System32;C:\Program Files\Maven\apache-maven-3.9.6\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\nodejs\;C:\Program Files\java\jdk-17\bin;C:\Users\gaytri.sonar\AppData\Local\Microsoft\WindowsApps;C:\Users\gaytri.sonar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\gaytri.sonar\AppData\Local\Programs\Git\cmd;C:\Users\gaytri.sonar\AppData\Roaming\npm;C:\Program Files\java\jdk-17\bin
+JRE paths:	C:\Program Files\java\jdk-17;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Windows\System32;C:\Program Files\Maven\apache-maven-3.9.6\bin;C:\Program Files\MySQL\MySQL Server 8.0\bin;C:\Program Files\nodejs\;C:\Program Files\java\jdk-17\bin;C:\Users\gaytri.sonar\AppData\Local\Microsoft\WindowsApps;C:\Users\gaytri.sonar\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\gaytri.sonar\AppData\Local\Programs\Git\cmd;C:\Users\gaytri.sonar\AppData\Roaming\npm;C:\Program Files\java\jdk-17\bin
+Check launcher:	C:\Program Files\java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_010 / 64-Bit (OK)
+Launcher:	C:\Program Files\java\jdk-17\bin\javaw.exe
+Launcher args:	-jar "C:\Users\gaytri.sonar\Documents\Bpipe\Banor-Bpipe 1.4\Banor.exe"
+Args length:	70/32768 chars
+Exit code:	0
